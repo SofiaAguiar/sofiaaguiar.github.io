@@ -12,7 +12,7 @@ body {
   </style>
 ```
 
-Sou natural de Belo Horizonte e atualmente estou me graduando na UFMG em Estatística. Adoro estudar sobre temas como igualdade no meio digital, sustentabilidade e inovação. Vejo que a estatística está presente em todos estes temas como uma forma de analisar e visualisar o mundo a nossa volta.
+Sou natural de Belo Horizonte e atualmente estou me graduando na UFMG em Estatística. Adoro estudar sobre temas como igualdade no meio digital, sustentabilidade e inovação. Vejo que a estatística está presente em todos estes temas como uma forma de analisar e visualizar o mundo a nossa volta.
 
 ### Habilidades
 
