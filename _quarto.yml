@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Sofia Aguiar"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Início
+      - sobre.qmd
+      - projetos.qmd
+        
+
+format:
+  html:
+    theme: cosmo
+    fontsize: 1.2em
+    css: styles.css
+    toc: true
+    toc-title: "Nessa página"
+
+

@@ -1,0 +1,24 @@
+---
+title: "Portifólio"
+description: "<br>Aqui você pode ver no que eu tenho trabalhado."
+listing:
+  contents: projetos
+  type: default
+  sort:
+    - "date desc"
+  categories: true
+  filter-ui: [title, date]
+---
+
+
+
+```{=html}
+  <style>
+body {
+      background-image: url('/imagens/agua.png');
+      background-size: cover;
+    }
+  </style>
+```
+
+
