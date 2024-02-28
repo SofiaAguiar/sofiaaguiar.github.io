@@ -10,15 +10,3 @@ listing:
   filter-ui: [title, date]
 ---
 
-
-
-```{=html}
-  <style>
-body {
-      background-image: url('/imagens/agua.png');
-      background-size: cover;
-    }
-  </style>
-```
-
-

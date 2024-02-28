@@ -2,21 +2,11 @@
 title: "Oi, meu nome é Sofia Aguiar"
 ---
 
-
-```{=html}
-  <style>
-body {
-      background-image: url('/imagens/agua.png');
-      background-size: cover;
-    }
-  </style>
-```
-
 E esse é o meu portifólio.  
 
 Sou graduanda em Estatística pela UFMG e curiosa de nascença. Tenho experiência em análise de dados e desenvovimento de projetos. Meu interesse principal é ajudar as pessoas usando tecnologia, como através da igualdade, da saúde e da sustentabilidade. Para ver mais sobre a minha formação e minha experiência profissional, clique [aqui.](sobre.qmd "Sobre")
 
-Este é um portifólio em constante atualização e meu último projeto foi [este](projetos/desc.qmd), sobre a pesquisa nanananananan. Para ver demais projetos, venha [aqui.](projetos.qmd "Projetos")
+Este é um portifólio em constante atualização e meu último projeto foi [este](projetos/desc.qmd), sobre a pesquisa nanananananan. Para ver demais projetos, venha [aqui](projetos.qmd "Projetos").
 
 Para entrar em contato basta mandar um email para sofia.aguiar42@gmail.com ou acesse [meu LinkedIn](https://www.linkedin.com/in/sofia-moreira-de-aguiar/).
 
