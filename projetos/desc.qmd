@@ -1,0 +1,14 @@
+---
+title: "Análise descritiva nanana"
+description: "pipipip poopopop"
+date: "2024-02-27"
+publishDate: "2024-02-27"
+page-footer: false
+categories:
+  - gráficos
+  - análise
+  - código
+  - data wrangling
+  - R
+  - Estatística
+---

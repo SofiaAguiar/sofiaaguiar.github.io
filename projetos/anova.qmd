@@ -1,0 +1,14 @@
+---
+title: "ANOVA nanana"
+description: "pipipip poopopop"
+date: "2024-02-27"
+publishDate: "2024-02-27"
+page-footer: false
+categories:
+  - ANOVA
+  - análise
+  - código
+  - data wrangling
+  - R
+  - estatística
+---

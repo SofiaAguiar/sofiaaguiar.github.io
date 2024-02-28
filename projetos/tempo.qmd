@@ -1,0 +1,14 @@
+---
+title: "Série temporal nanana"
+description: "pipipip poopopop"
+date: "2024-02-27"
+publishDate: "2024-02-27"
+page-footer: false
+categories:
+  - série temporal
+  - análise
+  - código
+  - data wrangling
+  - R
+  - estatística
+---
